@@ -1,0 +1,7 @@
+numpy
+pandas
+numba
+skyfield
+PyYAML
+psutil
+scikit-image

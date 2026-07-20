@@ -1,0 +1,30 @@
+[
+  {
+    "region": "qinling",
+    "display_name": "秦岭",
+    "center_lon": 107.75,
+    "center_lat": 33.85,
+    "center_elev_m": 0.0
+  },
+  {
+    "region": "huashan",
+    "display_name": "华山",
+    "center_lon": 110.09,
+    "center_lat": 34.49,
+    "center_elev_m": 0.0
+  },
+  {
+    "region": "loess_plateau",
+    "display_name": "黄土高原",
+    "center_lon": 109.49,
+    "center_lat": 36.65,
+    "center_elev_m": 0.0
+  },
+  {
+    "region": "guanzhong_plain",
+    "display_name": "关中平原",
+    "center_lon": 108.94,
+    "center_lat": 34.34,
+    "center_elev_m": 0.0
+  }
+]
